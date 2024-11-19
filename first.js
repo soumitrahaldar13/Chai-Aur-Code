@@ -1,8 +1,8 @@
-const student = {
-    fullName : "soumitra",
-    age: 32,
-    cgpa: 8.2,
-    isPass: true
+const product = {
+    title: "Ball Pen",
+    reting: 4,
+    offier: 5,
+    price: 220,
 };
-student["age"] = student["age"]+1;
-console.log(student.age);
+//console.log(product);
+

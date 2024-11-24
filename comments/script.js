@@ -31,11 +31,18 @@ console.log("a=" ,a ,"& b=",b);
 //     console.log("age=",age,"(not vote)");
 // }
 //example 2 odd &event
-let num =11;
-if(num % 2 ===0){
-    console.log(num,"is event");
-}else{
-    console.log(num ,"is odd");
-}
+// let num =11;
+// if(num % 2 ===0){
+//     console.log(num,"is event");
+// }else{
+//     console.log(num ,"is odd");
+// }
 
 // end if else conditional statements
+
+// conditional statement
+let age1 = 20;
+// let result = age1 >= 18 ? "adult" : "not adult";
+// console.log(result);
+//first or last print korte pari..
+age1>= 18 ? console.log("adult") : console.log("not adult");

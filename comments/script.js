@@ -46,3 +46,4 @@ let age1 = 20;
 // console.log(result);
 //first or last print korte pari..
 age1>= 18 ? console.log("adult") : console.log("not adult");
+
